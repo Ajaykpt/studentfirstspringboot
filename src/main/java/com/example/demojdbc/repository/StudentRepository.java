@@ -37,6 +37,7 @@ public class StudentRepository {
     }
 
     public int getStudentNo() {
+
         return studentNo;
     }
 
